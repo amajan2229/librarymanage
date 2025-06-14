@@ -1,0 +1,2 @@
+# librarymanage
+This Library Management System is a simple Java-based console application designed to simulate basic library operations such as managing books and users. It is ideal for beginners who want to understand how to apply Object-Oriented Programming (OOP) principles in real-world applications.
